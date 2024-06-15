@@ -49,7 +49,7 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/esfelurm/Reporter-Telegram
+git clone https://github.com/itsdevxd/tfcrwpot
 cd Reporter-Telegram
 python main.py
 ```
